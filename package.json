@@ -1,5 +1,5 @@
 {
-  "name": "@semmerich-heap/example",
+  "name": "@sde-heap/example",
   "version": "1.0.0",
   "description": "",
   "main": "build/withHeap.js",
