@@ -1,0 +1,4 @@
+{
+  "name": "expo-heap",
+  "platforms": ["ios", "android"]
+}
